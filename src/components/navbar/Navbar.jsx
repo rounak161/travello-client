@@ -25,7 +25,7 @@ const Navbar = () => {
       <div className={classes.wrapper}>
         <div className={classes.left}>
           <Link to='/'>
-            <h2 className={classes.title}>WebDevMania</h2>
+            <h2 className={classes.title}>travello</h2>
           </Link>
         </div>
         <div className={classes.center}>
